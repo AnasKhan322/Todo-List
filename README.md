@@ -25,8 +25,6 @@ It helps users manage daily tasks by adding, marking as complete, and deleting t
 
 ![To-Do List Screenshot](preview.png)
 
-*(Replace `preview.png` with your actual screenshot filename, e.g. `Screenshot 2025-09-26 180100.png` in your repo.)*
-
 ---
 
 ## ⚙️ Installation & Setup
